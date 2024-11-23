@@ -1,0 +1,11 @@
+case,dsc,nsd
+2DBox_CXR_demo.npz,0.9252,0.9529
+2DBox_Dermoscopy_demo.npz,0.9706,0.978
+2DBox_Endoscopy_demo.npz,0.9869,0.9915
+2DBox_Fundus_demo.npz,0.9821,0.9892
+2DBox_Mammography_demo.npz,0.7477,0.7812
+2DBox_Microscope_demo.npz,0.9565,0.9827
+2DBox_OCT_demo.npz,0.875,0.9693
+2DBox_US_demo.npz,0.8746,0.922
+3DBox_CT_demo.npz,0.6839,0.7872
+3DBox_MR_demo.npz,0.8988,0.7936

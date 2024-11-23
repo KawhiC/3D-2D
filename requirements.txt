@@ -1,0 +1,9 @@
+tqdm
+torch
+torchvision
+torchaudio
+timm
+matplotlib
+opencv-python-headless
+streamlit_drawable_canvas
+albumentations
